@@ -1,10 +1,10 @@
 {
-  "type": "",
-  "host": "",
-  "port": 0,
-  "username": "",
-  "password": "",
-  "database": "",
+  "type": "postgres",
+  "host": "inhouse.cgl31imtpyn7.us-east-1.rds.amazonaws.com",
+  "port": 5432,
+  "username": "gusvic",
+  "password": "8845390277Gv",
+  "database": "inhouse_bot",
   "entities": [
     "./src/models/*.ts"
   ],
